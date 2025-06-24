@@ -1,8 +1,8 @@
 - 👋 Olá, Eu sou Raissa Carvalho
--  💻Sou técnica em analise e desenvolvimento de sistemas
+-  💻Estou cursando 4º semestre em SDI
 -  📍Sou de Praia Grande - SP
 -  👔Busco uma oportunidade de estágio 
-- 🧠 HTML, CS, JAVASCRIPT, PHP, MYSQL, C#, IONIC, ANGULAR, DOS e MONGODB
+- 🧠 HTML, CSS, JAVASCRIPT, PHP, MYSQL, C# e C++
 
 <!---
 RaissaCar/RaissaCar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
