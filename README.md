@@ -1,8 +1,6 @@
 - 👋 Olá, Eu sou Raissa Carvalho
--  💻Estou cursando 4º semestre em SDI
--  📍Sou de Praia Grande - SP
--  👔Busco uma oportunidade de estágio 
-- 🧠 HTML, CSS, JAVASCRIPT, PHP, MYSQL, C# e C++
+-  💻Estou cursando 5º Semestre SDI
+- 🧠 Desenvolvimento fullstack Python| Flutter| Java| MySQL| C# 
 
 <!---
 RaissaCar/RaissaCar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
